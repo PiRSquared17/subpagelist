@@ -1,0 +1,1 @@
+A simple extension for displaying lists of subpages in MediaWiki pages.
